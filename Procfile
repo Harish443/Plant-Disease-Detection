@@ -1,1 +1,1 @@
-web: gunicorn app:app
+web: gunicorn plant-dis-det:app
