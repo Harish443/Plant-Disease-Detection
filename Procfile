@@ -1,1 +1,2 @@
-web: gunicorn plant-dis-det:app
+web: gunicorn plant-dis-det.app:app
+
